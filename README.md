@@ -1,0 +1,1 @@
+hii, this is codsoft Data Science internship.Titanic --Task 1, iris flower -- Task 2, Sales prediction -- Task 3![codsoft1](https://github.com/kowshikkumar1/CODSOFT/assets/82627801/9d853e45-7bec-4754-bb52-9fa907e78c47)
